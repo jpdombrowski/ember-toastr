@@ -12,6 +12,6 @@ module.exports = {
     var bowerDir = target.bowerDirectory;
 
     target.import(bowerDir + '/toastr/toastr.js');
-    target.import(bowerDir + '/toastr/toastr.css');
+    // target.import(bowerDir + '/toastr/toastr.css');
   }
 };
